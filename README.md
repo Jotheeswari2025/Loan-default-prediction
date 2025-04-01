@@ -1,8 +1,14 @@
-# Loan-default-prediction
-I have analysed loan default prediction dataset from kaggle and did data cleaning, data transformation, added new columns and created some insights on who are falling on defaulters list, what are the factors contributing to loan defaults and how we can minimize loan defaults by not giving loan to people with certain criteria.
+Objective:
+  Developed a predictive model to identify high-risk loan applicants and reduce default rates.
 
-#Data visualization
-I have created data visualization in Power BI
+Tools & Techniques Used:
+  Excel, SQL, Power BI, Data Cleaning, DAX, Statistical Analysis
 
-#SQL-PostgreSQL
-Checked all metrics are correct using PostgreSQL
+Key Actions:
+  Cleaned data using SQL & Excel.
+  Created credit score segmentation using SQL CASE statements.
+  Identified key default risk factors like income, credit history, and loan tenure.
+  Built interactive Power BI dashboards showing loan trends & risk categories.
+
+Insights & Impact:
+  Helped business make data-driven loan approval decisions.
